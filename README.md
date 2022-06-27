@@ -18,7 +18,7 @@
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
     <a href="https://docs.flutter.dev/" target="_blank" title ="flutter"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"
+            src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"
             alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"

@@ -17,8 +17,8 @@
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    <a href="https://docs.flutter.dev/" target="_blank" title ="flutter"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"
             alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"

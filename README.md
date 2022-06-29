@@ -4,10 +4,8 @@
 <h3 align="left">I have Experience With Cross-Platform Mobile Apps With Flutter SDK + DART</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <h1>    
 <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-mourad-21a5921a4" height="30" width="40" /></a>
-</p>
 </h1>
 
 

@@ -58,7 +58,7 @@
     <img alt="FLUTTER" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
   </a>
   <a> 
-    <img alt="IOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Apple_iOS_logo.svg/768px-Apple_iOS_logo.svg.png">
+    <img alt="IOS" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Apple_iOS_logo.svg">
   </a>
   <a> 
     <img alt="DJANGO" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">

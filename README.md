@@ -18,7 +18,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmourad98&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"               alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmourad98&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"               alt="mahmourad98 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -36,11 +36,11 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="JAVA" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg">
+  <a href="" target="_blank"> 
+    <img alt="JAVA" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="KOTLIN" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
   </a> 
   &emsp;

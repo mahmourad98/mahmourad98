@@ -91,13 +91,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="hhttps://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+    <a href="#"><img width="10%" height="10%" alt="Visual Studio Code" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" /></a>
+    <a href="#"><img width="10%" height="10%" alt="Atom" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" /></a>
   &emsp;
-    <a href="#"><img width="20%" height="20%" alt="Android Studio" src="https://img.icons8.com/color/344/android-studio--v2.png" /></a>
+    <a href="#"><img width="10%" height="10%" alt="Android Studio" src="https://img.icons8.com/color/344/android-studio--v2.png" /></a>
   &emsp;
-    <a href="#"><img width="20%" height="20%" alt="Intellij Idea" src="https://img.icons8.com/color/344/intellij-idea.png" /></a>
+    <a href="#"><img width="10%" height="10%" alt="Intellij Idea" src="https://img.icons8.com/color/344/intellij-idea.png" /></a>
 </p>
 
 <br/>

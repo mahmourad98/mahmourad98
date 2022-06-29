@@ -12,6 +12,13 @@
   </h1>
 </p>
 
+<div align="center">
+<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4"><b>mahmoud-mourad-21a5921a4</b></a><br>
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>

@@ -56,7 +56,7 @@
   </a>
   <a> 
     <img alt="FLUTTER" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-  </a>https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
+  </a>
   <a> 
     <img alt="DJANGO" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
   </a>

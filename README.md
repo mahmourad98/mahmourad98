@@ -41,7 +41,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="KOTLIN" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="KOTLIN" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

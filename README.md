@@ -36,11 +36,11 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="" target="_blank"> 
+  <a> 
     <img alt="JAVA" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
   </a> 
   &emsp;
-  <a href="" target="_blank"> 
+  <a> 
     <img alt="KOTLIN" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
   </a> 
   &emsp;

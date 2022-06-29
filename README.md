@@ -94,10 +94,6 @@
     <a href="#"><img alt="Visual Studio Code" src="hhttps://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" /></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.icons8.com/color/344/android-studio--v2.png" /></a>
-  &emsp;
-    <a href="#"><img alt="Intellij Idea" src="https://img.icons8.com/color/344/intellij-idea.png" /></a>
 </p>
 
 <br/>

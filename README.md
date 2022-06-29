@@ -57,9 +57,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GITHUB" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
   &emsp;
     <a href="#"><img alt="POSTMAN" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a>
   &emsp;

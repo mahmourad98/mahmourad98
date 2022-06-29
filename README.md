@@ -37,11 +37,11 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="JAVA" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+    <img alt="JAVA" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="KOTLIN" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

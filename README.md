@@ -3,20 +3,11 @@
 <h3 align="left">I have Experience With Android Mobile Apps With Android SDK + JAVA + KOTLIN</h3>
 <h3 align="left">I have Experience With Cross-Platform Mobile Apps With Flutter SDK + DART</h3>
 
-<div>
-    <h3 align="left">Connect with me:</h3>
-      <br/>
-        <p align="center">
-          <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4">
-        </p>
-     <br>
-  </div>    
-
 <p align="left"> 
   <h3 align="left">Connect with me:</h3>
   <h1>    
     <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4" target="blank">
-      <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" alt="mahmoud-mourad-21a5921a4" height="30" width="40"/>
+      <imgalt="mahmoud-mourad-21a5921a4" height="30" width="40"/>
     </a>
   </h1>
 </p>
@@ -28,7 +19,7 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/mahmourad98/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmourad98&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"               alt="mahmourad98 :: Top Langs" /></a>
         </p>
         <p align="center">

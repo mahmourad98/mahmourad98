@@ -58,9 +58,6 @@
     <img alt="FLUTTER" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
   </a>
   <a> 
-    <img alt="IOS" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Apple_iOS_logo.svg">
-  </a>
-  <a> 
     <img alt="DJANGO" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
   </a>
 </p>
@@ -94,11 +91,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="hhttps://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="Atom" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Android Studio" src="https://img.icons8.com/color/344/android-studio--v2.png" /></a>
+  &emsp;
+    <a href="#"><img alt="Intellij Idea" src="https://img.icons8.com/color/344/intellij-idea.png" /></a>
 </p>
 
 <br/>

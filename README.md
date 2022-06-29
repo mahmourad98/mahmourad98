@@ -3,6 +3,15 @@
 <h3 align="left">I have Experience With Android Mobile Apps With Android SDK + JAVA + KOTLIN</h3>
 <h3 align="left">I have Experience With Cross-Platform Mobile Apps With Flutter SDK + DART</h3>
 
+<div>
+    <h3 align="left">Connect with me:</h3>
+      <br/>
+        <p align="center">
+          <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4">
+        </p>
+     <br>
+  </div>    
+
 <p align="left"> 
   <h3 align="left">Connect with me:</h3>
   <h1>    

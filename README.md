@@ -12,6 +12,25 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmourad98&show_icons=true&locale=en&layout=compact" alt="mahmourad98" /></p>
 
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmourad98&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"               alt="1999AZZAR :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmourad98&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmourad98&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
+
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"

@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages & SDK
 
 <p align="center"> 
   &emsp; 
@@ -50,6 +50,15 @@
   &emsp;
   <a> 
     <img alt="PYTHON" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+  </a>
+  <a> 
+    <img alt="ANDROID" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+  </a>
+  <a> 
+    <img alt="FLUTTER" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+  </a>https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
+  <a> 
+    <img alt="DJANGO" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
   </a>
 </p>
 

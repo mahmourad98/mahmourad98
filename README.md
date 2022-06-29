@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MAHMOUD MOURAD</h1>
-<h3 align="left">A passionate MOBILE APPLICATION DEVELOPER from Egypt.</h3>
-<h3 align="left">I have Experience With Android Mobile Apps With Android SDK + JAVA + KOTLIN</h3>
-<h3 align="left">I have Experience With Cross-Platform Mobile Apps With Flutter SDK + DART</h3>
+<h3 align="left">- &nbsp; A passionate MOBILE APPLICATION DEVELOPER from Egypt.</h3>
+<h3 align="left">- &nbsp; I have Experience With Android Mobile Apps With Android SDK + JAVA + KOTLIN</h3>
+<h3 align="left">- &nbsp; I have Experience With Cross-Platform Mobile Apps With Flutter SDK + DART</h3>
+
 
 <div align="left">
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/mahmoud-mourad-21a5921a4"><b>mahmoud-mourad-21a5921a4</b></a><br>
